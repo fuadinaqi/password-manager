@@ -823,6 +823,12 @@
     lodash "^4.17.13"
     to-fast-properties "^2.0.0"
 
+"@bit/fuadinaqi.salazar.button@^1.0.0":
+  version "1.0.0"
+  resolved "https://node.bit.dev/fuadinaqi.salazar.button/-/fuadinaqi.salazar.button-1.0.0.tgz#171f7aaabca1e62c9d6d0d3d8ae81be63466c023"
+  dependencies:
+    react "^16.8.6"
+
 "@cnakazawa/watch@^1.0.3":
   version "1.0.3"
   resolved "https://npm.delman.io/@cnakazawa%2fwatch/-/watch-1.0.3.tgz#099139eaec7ebf07a27c1786a3ff64f39464d2ef"
@@ -6830,7 +6836,7 @@ react-dev-utils@^9.0.1:
     strip-ansi "5.2.0"
     text-table "0.2.0"
 
-react-dom@16.8.6:
+react-dom@^16.8.6:
   version "16.8.6"
   resolved "https://npm.delman.io/react-dom/-/react-dom-16.8.6.tgz#71d6303f631e8b0097f56165ef608f051ff6e10f"
   dependencies:
@@ -6906,7 +6912,7 @@ react-scripts@3.0.1:
   optionalDependencies:
     fsevents "2.0.6"
 
-react@16.8.6:
+react@^16.8.6:
   version "16.8.6"
   resolved "https://npm.delman.io/react/-/react-16.8.6.tgz#ad6c3a9614fd3a4e9ef51117f54d888da01f2bbe"
   dependencies:
