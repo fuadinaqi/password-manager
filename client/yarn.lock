@@ -823,12 +823,6 @@
     lodash "^4.17.13"
     to-fast-properties "^2.0.0"
 
-"@bit/fuadinaqi.salazar.button@^1.0.0":
-  version "1.0.0"
-  resolved "https://node.bit.dev/fuadinaqi.salazar.button/-/fuadinaqi.salazar.button-1.0.0.tgz#171f7aaabca1e62c9d6d0d3d8ae81be63466c023"
-  dependencies:
-    react "^16.8.6"
-
 "@cnakazawa/watch@^1.0.3":
   version "1.0.3"
   resolved "https://npm.delman.io/@cnakazawa%2fwatch/-/watch-1.0.3.tgz#099139eaec7ebf07a27c1786a3ff64f39464d2ef"
@@ -1364,8 +1358,8 @@ acorn-walk@^6.0.1:
   resolved "https://npm.delman.io/acorn-walk/-/acorn-walk-6.2.0.tgz#123cb8f3b84c2171f1f7fb252615b1c78a6b1a8c"
 
 acorn@^5.5.3:
-  version "5.7.3"
-  resolved "https://npm.delman.io/acorn/-/acorn-5.7.3.tgz#67aa231bf8812974b85235a96771eb6bd07ea279"
+  version "5.7.4"
+  resolved "https://registry.yarnpkg.com/acorn/-/acorn-5.7.4.tgz#3e8d8a9947d0599a1796d10225d7432f4a4acf5e"
 
 acorn@^6.0.1, acorn@^6.0.4, acorn@^6.0.5, acorn@^6.0.7:
   version "6.2.1"
